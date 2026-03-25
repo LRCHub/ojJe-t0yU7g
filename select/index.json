@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "ひゅるりらぱっぱ - HYURURIRAPAPPA",
   "base_artist": "tuki.",
-  "createdAt": "2026-03-20T17:47:14.030226Z",
+  "createdAt": "2026-03-25T14:41:08.727849Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -31,18 +31,26 @@
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "ひゅるりらぱっぱ - HYURURIRAPAPPA (Paused)",
+      "title": "ひゅるりらぱっぱ - HYURURIRAPAPPA",
       "artist": "tuki.",
-      "has_synced": true,
-      "path": "select/04_ひゅるりらぱっぱ_-_HYURURIRAPAPPA_(Paused)_tuki..lrc"
+      "has_synced": false,
+      "path": "select/04_ひゅるりらぱっぱ_-_HYURURIRAPAPPA_tuki..txt"
     },
     {
       "id": "lrclib_5",
       "source": "lrclib",
+      "title": "ひゅるりらぱっぱ - HYURURIRAPAPPA (Paused)",
+      "artist": "tuki.",
+      "has_synced": true,
+      "path": "select/05_ひゅるりらぱっぱ_-_HYURURIRAPAPPA_(Paused)_tuki..lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
       "title": "tuki.『ひゅるりらぱっぱ』Official Music Video",
       "artist": "tuki.(15)",
       "has_synced": true,
-      "path": "select/05_tuki.『ひゅるりらぱっぱ』Official_Music_Video_tuki.(15).lrc"
+      "path": "select/06_tuki.『ひゅるりらぱっぱ』Official_Music_Video_tuki.(15).lrc"
     },
     {
       "id": "petitlyrics_1",
